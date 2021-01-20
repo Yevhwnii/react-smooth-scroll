@@ -14,7 +14,6 @@ import {
 } from './NavbarElements';
 
 const Navbar = ({ toggle }) => {
-  console.log(toggle);
   return (
     <>
       <Nav>
