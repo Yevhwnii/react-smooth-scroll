@@ -13,4 +13,4 @@ test for styled components in actions. Most of the links of application use reac
 click.
 
 Interface:
-![Interface](https://ibb.co/35XgHMK)
+![Interface](https://i.ibb.co/kVnNF9Z/Capture.png)
